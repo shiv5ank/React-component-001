@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.App {
+    margin-top: 20px;
+}
+
+p, h2, h3, h4, a{
+    padding-left: 8px;
+    font-family: 'Roboto Slab', serif;
+}
+a {
+    margin-left: 15px;
+    color: blue;
+}
+.info {
+    outline: 2px solid;
+}
+.experience {
+    outline: 2px solid;
+}
+
+.jobrole{
+    
+    outline: 2px solid;
+}
+
+.skills{
+    padding-top: 2px;
+    outline: 2px solid;
+}
+
+.skill_innerContainer {
+    outline: 5px solid;
+    padding-bottom: 2px;
+}
+
+.hobbies {
+    outline: 2px solid;
+    padding-bottom: 0.1px;
+}
